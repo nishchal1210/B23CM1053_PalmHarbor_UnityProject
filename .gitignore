@@ -1,0 +1,38 @@
+# Unity-generated caches and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE-generated files
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Optional walkthrough outputs and local Python dependencies
+/Submission/VideoFrames/
+/tmp/video-tools/
+__pycache__/
+*.pyc
+.venv/

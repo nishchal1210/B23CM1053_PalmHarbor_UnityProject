@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlantic water
+  m_Shader: {fileID: 4800000, guid: cb6a1111b4985ab489104098bc2f1ed2, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _DepthRange: 42
+    - _ReflectionStrength: 0.32
+    - _ShorelineX: 74
+    - _WaveHeight: 0.09
+    - _WaveSpeed: 0.65
+    m_Colors:
+    - _DeepColor: {r: 0.16078432, g: 0.42745098, b: 0.5254902, a: 1}
+    - _FoamColor: {r: 0.85882354, g: 0.9137255, b: 0.8392157, a: 1}
+    - _ReflectionColor: {r: 0.47999996, g: 0.37999994, b: 0.47999996, a: 1}
+    - _ShallowColor: {r: 0.39607844, g: 0.7254902, b: 0.68235296, a: 1}
+    - _SunColor: {r: 1, g: 0.53, b: 0.29, a: 1}
+    - _SunDirection: {r: 0.97, g: 0.12, b: 0.2, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
